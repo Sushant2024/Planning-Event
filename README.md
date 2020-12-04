@@ -38,12 +38,13 @@
 
 # Brochure Gallery
 - Brochure 1
+
 ![brochure](https://user-images.githubusercontent.com/40707958/101096562-baa39e00-35e5-11eb-8f19-74d5cbf96404.png)
 
 - Brochure 2
 
   - PDF Format 
-  [Broucher.pdf](https://github.com/Sushant2024/Planning-Event/files/5643653/Broucher.pdf)
+  > [Broucher.pdf](https://github.com/Sushant2024/Planning-Event/files/5643653/Broucher.pdf)
   
   - png Format
 ![1](https://user-images.githubusercontent.com/40707958/101182477-26344c80-3674-11eb-8dc8-f8c2b2cfc7cb.png)
