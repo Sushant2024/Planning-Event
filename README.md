@@ -41,6 +41,11 @@
 ![brochure](https://user-images.githubusercontent.com/40707958/101096562-baa39e00-35e5-11eb-8f19-74d5cbf96404.png)
 
 - Brochure 2
-![1](https://user-images.githubusercontent.com/40707958/101177515-e8ccc080-366d-11eb-808b-6ebe33cacabe.png)
-![2](https://user-images.githubusercontent.com/40707958/101177529-ebc7b100-366d-11eb-9ad9-c5aa711c716f.png)
-![3](https://user-images.githubusercontent.com/40707958/101177507-e5393980-366d-11eb-9912-f48cbf05ec3d.png)
+
+  - PDF Format 
+  [Broucher.pdf](https://github.com/Sushant2024/Planning-Event/files/5643653/Broucher.pdf)
+  
+  - png Format
+![1](https://user-images.githubusercontent.com/40707958/101182477-26344c80-3674-11eb-8dc8-f8c2b2cfc7cb.png)
+![2](https://user-images.githubusercontent.com/40707958/101182517-33e9d200-3674-11eb-8fdc-b523d7fbf85f.png)
+![3](https://user-images.githubusercontent.com/40707958/101182461-1fa5d500-3674-11eb-84cd-4f3def5ab4a1.png)
