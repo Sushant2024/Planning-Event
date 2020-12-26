@@ -17,7 +17,7 @@
 # WorkSpace:
 ## Poster:
 - [Shared Canva link](https://www.canva.com/design/DAEPLxRZvdc/share/preview?token=JM13BX4qjHHQPU9lGU_UTQ&role=EDITOR&utm_content=DAEPLxRZvdc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) (For minor amendments if required)
-
+- [Link 2](https://www.canva.com/design/DAERaZum3YM/kmAeImD0VuVZRMywIJ3wFQ/view?utm_content=DAERaZum3YM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 ## Certificate:
 - [Certificate link](https://www.canva.com/design/DAEPM-bnv1Q/share/preview?token=bV1vnrfKNYqG_QDJXDJLGg&role=EDITOR&utm_content=DAEPM-bnv1Q&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) (Click the link, make changes, save & send)
 
